@@ -1,4 +1,3 @@
-<body>
 <h1 id="logo">
 	<a href="http://intra.nicolas-barbarisi.com/"><img alt="WordPress" width="300" src="/GETAWAY.png" /></a>
 </h1>
@@ -83,6 +82,3 @@
 
 <h2>License</h2>
 <p>WordPress is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
-
-</body>
-</html>
