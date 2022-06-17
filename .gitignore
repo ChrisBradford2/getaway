@@ -2,7 +2,8 @@
 /*
 !.gitignore
 !wp-content/
-!readme.html
+!README.md
+!LICENCE
  
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
