@@ -1,6 +1,6 @@
 <body>
 <h1 id="logo">
-	<a href="http://intra.nicolas-barbarisi.com/"><img alt="WordPress" src="/GETAWAY.png" /></a>
+	<a href="http://intra.nicolas-barbarisi.com/"><img alt="WordPress" style="max-width: 300px;" src="/GETAWAY.png" /></a>
 </h1>
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
 
